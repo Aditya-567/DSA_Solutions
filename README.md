@@ -1,2 +1,2 @@
 # c-programs
- basics program of c++
+ basics program of c++ /c
