@@ -7,7 +7,7 @@ basics program of c++ /c
 
 3. MAX OF 5 NUMBER IN C
 
-4.pattern question
+4.pattern question                                                                                                                   
 a. half alphabitical pyramid                                                                                                
 A                                                                                                                  
 ABA                                                                                                                        
