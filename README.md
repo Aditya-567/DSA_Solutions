@@ -9,9 +9,9 @@ basics program of c++ /c
 
 4.pattern question
 a. half alphabitical pyramid
-A
-ABA
-ABCBA
+A                                                                                                                  
+ABA                                                                                                                        
+ABCBA                                                                                                                 
 ABCDCBA
 ABCDEDCBA
 ABCDEFEDCBA
